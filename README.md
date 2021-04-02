@@ -56,7 +56,7 @@ Currently I am working as Data Scientist with Tata Business Hub and supporting M
 <a href="https://linkedin.com/in/ramsinghkushinagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramsinghkushinagar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11738676" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11738676" height="30" width="40" /></a>
 <a href="https://kaggle.com/rams143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rams143" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ramsinghkushina1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@ramsinghkushina1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ramsinghkushina1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@ramsinghkushina1" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ramsinghkushinagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@ramsinghkushinagar" height="30" width="40" /></a>
 </p>
 
