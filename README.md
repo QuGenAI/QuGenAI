@@ -15,6 +15,42 @@ Currently I am working as Data Scientist with Tata Business Hub and supporting M
 
 - 📄 Know about my experiences [www.linkedin.com/in/ramsinghkushinagar](www.linkedin.com/in/ramsinghkushinagar)
 
+## Certifications
+:small_blue_diamond: Tensorflow Developer Cerfitication from Google
+
+:small_blue_diamond: Tensorflow Developer Cerfitication from Coursera
+
+:small_blue_diamond: Marketing Analytics from Coursera
+
+:small_blue_diamond: Machine Learning from NPTEL
+
+## Data Science Tools :hammer_and_wrench:
+
+:radio_button: Python - Pandas, Numpy, Plotly, Sklearn, Scipy, Statsmodels etc
+
+:radio_button: R - Data Table, Dplyr, Ggplot2, caret etc
+
+:radio_button: SQL
+
+:radio_button: AWS - Redshift & S3
+
+:radio_button: Pyspark
+
+:radio_button: Tableau
+
+## Data Science Skills :toolbox:
+
+:white_small_square: Statiscal Analysis and Model Building
+
+:white_small_square: Machine Learning Model developemnt ( Regression, Classificaiton, Time Series Forecasting, Segmentation, Mathematical Optimization)
+
+:white_small_square: Neural Network
+
+:white_small_square: Computer Vission - Image processing, Image classification, Image detection ( Yolo, Detectron2, VGG, SSD), Style Trasnfer, GAN
+
+:white_small_square: NLP - Classification, Text generation
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramsinghkushinagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramsinghkushinagar" height="30" width="40" /></a>
