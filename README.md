@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAM SINGH</h1>
 <h3 align="center">A Data Scientist with 6+ years of experiance.</h3>
 
-Currently I am working as Data Scientist with Tata Business Hub and supporting MSME clients in their NLP and recommendation system projects. I have got good experience in data science and machine learning with extensive experience in python and R for ML/DL model building.
+Currently I am working as Lead Data Scientist with Happiest Minds and supporting EdTech clients in their NLP and recommendation system projects. I have got good experience in data science and machine learning, along with extensive experience in python and R for ML/DL model building and MLOps with Azure and H2O dai.
 
 - 🔭 I’m currently working on **NLP and Recomendation system**
 
@@ -16,6 +16,8 @@ Currently I am working as Data Scientist with Tata Business Hub and supporting M
 - 📄 Know about my experiences [www.linkedin.com/in/ramsinghkushinagar](www.linkedin.com/in/ramsinghkushinagar)
 
 ## Certifications
+:small_blue_diamond: Graph database Developer Cerfitication from Neo4J
+
 :small_blue_diamond: Tensorflow Developer Cerfitication from Google
 
 :small_blue_diamond: Tensorflow Developer Cerfitication from Coursera
@@ -26,15 +28,15 @@ Currently I am working as Data Scientist with Tata Business Hub and supporting M
 
 ## Data Science Tools :hammer_and_wrench:
 
-:radio_button: Python - Pandas, Numpy, Plotly, Sklearn, Scipy, Statsmodels etc
+:radio_button: Python - Pandas, Numpy, Plotly, Sklearn, Scipy, Statsmodels, PyTorch, Tensorflow, MaxNet etc
 
 :radio_button: R - Data Table, Dplyr, Ggplot2, caret etc
 
-:radio_button: SQL
+:radio_button: SQL, Neo4J
 
 :radio_button: AWS - Redshift & S3
 
-:radio_button: Pyspark
+:radio_button: Pyspark, Azure
 
 :radio_button: Tableau
 
@@ -46,9 +48,7 @@ Currently I am working as Data Scientist with Tata Business Hub and supporting M
 
 :white_small_square: Neural Network
 
-:white_small_square: Computer Vission - Image processing, Image classification, Image detection ( Yolo, Detectron2, VGG, SSD), Style Trasnfer, GAN
-
-:white_small_square: NLP - Classification, Text generation
+:white_small_square: NLP - Classification, Text generation, Q&A, Search Engine, Content Tagging, Content Recommendation
 
 
 <h3 align="left">Connect with me:</h3>
