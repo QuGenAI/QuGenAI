@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAM SINGH</h1>
-<h3 align="center">A Data Scientist with 6+ years of experiance.</h3>
+<h3 align="center">A Data Scientist with 8+ years of experiance.</h3>
 
 Currently I am working as Lead Data Scientist with Happiest Minds and supporting EdTech clients in their NLP and recommendation system projects. I have got good experience in data science and machine learning, along with extensive experience in python and R for ML/DL model building and MLOps with Azure and H2O dai.
 
@@ -48,7 +48,7 @@ Currently I am working as Lead Data Scientist with Happiest Minds and supporting
 
 :white_small_square: Neural Network
 
-:white_small_square: NLP - Classification, Text generation, Q&A, Search Engine, Content Tagging, Content Recommendation
+:white_small_square: NLP - Classification, Text generation, Q&A, Search Engine, Content Tagging, Knowledge Graph, Ontology, Content Recommendation
 
 
 <h3 align="left">Connect with me:</h3>
