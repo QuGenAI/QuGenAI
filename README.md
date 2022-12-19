@@ -34,7 +34,7 @@ Currently I am working as Lead Data Scientist with Happiest Minds and supporting
 
 :radio_button: SQL, Neo4J
 
-:radio_button: AWS - Redshift & S3
+:radio_button: AWS - Redshift & S3, Azure
 
 :radio_button: Pyspark, Azure
 
@@ -46,7 +46,7 @@ Currently I am working as Lead Data Scientist with Happiest Minds and supporting
 
 :white_small_square: Machine Learning Model developemnt ( Regression, Classificaiton, Time Series Forecasting, Segmentation, Mathematical Optimization)
 
-:white_small_square: Neural Network
+:white_small_square: Neural Network, Graph Neural Network, graph analytics
 
 :white_small_square: NLP - Classification, Text generation, Q&A, Search Engine, Content Tagging, Knowledge Graph, Ontology, Content Recommendation
 
