@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm RAM SINGH</h1>
-<h3 align="center">A Data Scientist with 8+ years of experiance.</h3>
+<h3 align="center">A ML Architect with 13+ years of experiance.</h3>
 
-Currently I am working as Lead Data Scientist with Happiest Minds and supporting EdTech clients in their NLP and recommendation system projects. I have got good experience in data science and machine learning, along with extensive experience in python and R for ML/DL model building and MLOps with Azure and H2O dai.
+Currently, I am working as a Machine Learning Architect with ClearEye and building AI products related to Document AI and Generative AI. I have good experience in generative AI, Graph Neural Networks, and NLP, and extensive experience in Python and R for ML/DL model building and MLOps with Azure/AWS and H2O dai.
 
-- 🔭 I’m currently working on **NLP and Recomendation system**
+- 🔭 I’m currently working on **Document AI**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Quantum Computing**
 
-- 👯 I’m looking to collaborate on **Tensorflow based projects**
+- 👯 I’m looking to collaborate on **Gen based projects**
 
 - 💬 Ask me about **Python, R**
 
@@ -16,11 +16,11 @@ Currently I am working as Lead Data Scientist with Happiest Minds and supporting
 - 📄 Know about my experiences [www.linkedin.com/in/ramsinghkushinagar](www.linkedin.com/in/ramsinghkushinagar)
 
 ## Certifications
-:small_blue_diamond: Graph database Developer Cerfitication from Neo4J
+:small_blue_diamond: Graph database Developer Certification from Neo4J
 
-:small_blue_diamond: Tensorflow Developer Cerfitication from Google
+:small_blue_diamond: Tensorflow Developer Certification from Google
 
-:small_blue_diamond: Tensorflow Developer Cerfitication from Coursera
+:small_blue_diamond: Tensorflow Developer Certification from Coursera
 
 :small_blue_diamond: Marketing Analytics from Coursera
 
@@ -30,7 +30,7 @@ Currently I am working as Lead Data Scientist with Happiest Minds and supporting
 
 :radio_button: Python - Pandas, Numpy, Plotly, Sklearn, Scipy, Statsmodels, PyTorch, Tensorflow, MaxNet etc
 
-:radio_button: R - Data Table, Dplyr, Ggplot2, caret etc
+:radio_button: R - Data Table, Dplyr, Ggplot2, caret, etc
 
 :radio_button: SQL, Neo4J
 
@@ -38,17 +38,15 @@ Currently I am working as Lead Data Scientist with Happiest Minds and supporting
 
 :radio_button: Pyspark, Azure
 
-:radio_button: Tableau
 
 ## Data Science Skills :toolbox:
-
-:white_small_square: Statiscal Analysis and Model Building
-
-:white_small_square: Machine Learning Model developemnt ( Regression, Classificaiton, Time Series Forecasting, Segmentation, Mathematical Optimization)
-
-:white_small_square: Neural Network, Graph Neural Network, graph analytics
+:white_small_square: Neural Network, Graph Neural Network, Generative AI
 
 :white_small_square: NLP - Classification, Text generation, Q&A, Search Engine, Content Tagging, Knowledge Graph, Ontology, Content Recommendation
+
+:white_small_square: Statistical Analysis and Model Building
+
+:white_small_square: Machine Learning Model development ( Regression, Classification, Time Series Forecasting, Segmentation, Mathematical Optimization)
 
 
 <h3 align="left">Connect with me:</h3>
