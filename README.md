@@ -7,7 +7,7 @@ Currently, I am working as a Machine Learning Architect with ClearEye and buildi
 
 - 🌱 I’m currently learning **Quantum Computing**
 
-- 👯 I’m looking to collaborate on **Gen based projects**
+- 👯 I’m looking to collaborate on **Gen AI based projects**
 
 - 💬 Ask me about **Python, R**
 
