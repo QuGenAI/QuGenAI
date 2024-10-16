@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm RAM SINGH</h1>
-<h3 align="center">A ML Architect with 13+ years of experiance.</h3>
+<h3 align="center">A Data scientist with 15+ years of experiance.</h3>
 
-Currently, I am working as a Machine Learning Architect with ClearEye and building AI products related to Document AI and Generative AI. I have good experience in generative AI, Graph Neural Networks, and NLP, and extensive experience in Python and R for ML/DL model building and MLOps with Azure/AWS and H2O dai.
+Currently, I am working as an Associate Director - ML with ClearEye and building AI products related to Document AI and Generative AI. I have good experience in generative AI, Graph Neural Networks, and NLP, and extensive experience in Python and R for ML/DL model building and MLOps with Azure/AWS and H2O dai.
 
 - 🔭 I’m currently working on **Document AI**
 
 - 🌱 I’m currently learning **Quantum Computing**
 
-- 👯 I’m looking to collaborate on **Gen AI based projects**
+- 👯 I’m looking to collaborate on **Gen AI-based projects**
 
 - 💬 Ask me about **Python, R**
 
